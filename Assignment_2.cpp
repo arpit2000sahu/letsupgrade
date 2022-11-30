@@ -16,4 +16,6 @@ int main()
     b = a;
     a = temp;
     cout << "After swapping a = " << a << " and b = " << b << endl;
+    
+    return 0;
 }
